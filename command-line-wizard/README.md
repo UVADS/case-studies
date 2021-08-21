@@ -4,3 +4,4 @@ Do you know how to send an email from a command line?
 #### Challenge: Send an email to LPA2A@VIRGINIA.EDU from the command line.
 
 #### Bonus: Send yourself a text message from the command line.
+Hint my number looks like: 1XXXXXX3179@msg.fi.google.com
